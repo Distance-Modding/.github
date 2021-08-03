@@ -1,6 +1,6 @@
 {
     "name": "Automatic Release Workflow for MSBuild solutions",
-    "description": "This workflow will automatically build the .",
+    "description": "This workflow will automatically build a msbuild/visual studio solution and deploy artifacts on GitHub releases.",
     "iconName": "visual-studio",
     "categories": [
         "csharp",
