@@ -1,0 +1,13 @@
+{
+    "name": "Automatic Release Workflow for MSBuild solutions",
+    "description": "This workflow will automatically build the .",
+    "iconName": "visual-studio",
+    "categories": [
+        "csharp",
+		"vbnet"
+    ],
+    "filePatterns": [
+        ".*\\.(sln|vbproj|vb|csproj|cs|targets|props|resx)$",
+        ".*packages\\.config$"
+    ]
+}
