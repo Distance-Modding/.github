@@ -7,7 +7,7 @@
 		"vbnet"
     ],
     "filePatterns": [
-        ".*\\.(sln|vbproj|vb|csproj|cs|targets|props|resx)$",
+        ".*\\.(sln|vbproj|vb|csproj|cs|targets|props|resx|shproj|projitems)$",
         ".*packages\\.config$"
     ]
 }
