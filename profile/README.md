@@ -1,2 +1,2 @@
-# Welcome to the Distance github community 👋
+# Welcome to the Distance modding community 👋
 ![banner image](assets/img/org-header-main.png)
